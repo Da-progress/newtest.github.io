@@ -1,0 +1,4 @@
+[0430/205947.777:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Redbob\Reports\Dump: Системе не удается найти указанный путь. (0x3)
+[0430/205947.793:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0430/205947.793:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Redbob\Reports\Dump: Системе не удается найти указанный путь. (0x3)
+[0430/225240.312:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Redbob\Reports\Dump: Системе не удается найти указанный путь. (0x3)
